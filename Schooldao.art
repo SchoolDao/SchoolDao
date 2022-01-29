@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head><meta charset="utf-8">
+	<title>SchoolDAO</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="favicon.ico" rel="icon" type="image/png" />
+	<link href="favicon.ico" rel="apple-touch-icon" />
+	<link href="https://fonts.googleapis.com" rel="preconnect" />
+	<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
+	<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&amp;family=Inconsolata:wght@300;700&amp;family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&amp;family=Poppins:wght@400;900&amp;display=swap" rel="stylesheet" />
+	<link href="assets/css/style.css?v1.01" rel="stylesheet" type="text/css" /><meta name="description" content="School DAO aims to establish highly interactive lifelike classroom experience for learners and lecturers with high quality virtual reality education system governed by thousands of community members."><meta property="og:site_name" content="SchoolDAO"><meta property="og:title" content="SchoolDAO"><meta property="og:type" content="website"><meta property="og:description" content="School DAO aims to establish highly interactive lifelike classroom experience for learners and lecturers with high quality virtual reality education system governed by thousands of community members."><meta property="og:image" content="assets/images/meta.png?v1.01"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1576"><meta property="og:image:height" content="1576"><meta property="og:url" content="https://schooldao.art"><meta property="twitter:card" content="summary_large_image">
+	<link href="https://schooldao.art" rel="canonical" /><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" type="text/javascript"></script><script src="assets/js/countdowntime/moment.min.js?v1.01"></script><script src="assets/js/countdowntime/moment-timezone.min.js?v1.01"></script><script src="assets/js/countdowntime/moment-timezone-with-data.min.js?v1.01"></script><script src="assets/js/countdowntime/countdowntime.js?v1.01"></script><script src="assets/js/app.js?v1.01"></script><script>
+  $(document).ready(function() {
+    $('.countdown').countdown100({
+      endtimeYear: 2022,
+      endtimeMonth: 2,
+      endtimeDate: 23,
+      endtimeHours: 0,
+      endtimeMinutes: 0,
+      endtimeSeconds: 0,
+      timeZone: "Europe/Istanbul"
+    });
+  });
+</script><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-216339129-1"></script><script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-216339129-1');
+</script>
+</head>
+<body class="body">
+<div class="navbar-height"></div>
+
+<div class="navbar w-nav">
+<div class="nav-wrap"><a class="logo-link w-nav-brand" href="#"><img alt="logo" class="logo-image" src="assets/images/logo.png" width="42" /> </a>
+
+<div class="menu">
+<nav class="navigation-items-2 w-nav-menu" role="navigation"><a class="navigation-item-2 w-nav-link" href="#Learn">LEARN</a> <a class="navigation-item-2 w-nav-link" href="#Roadmap">Roadmap</a> <a class="navigation-item-2 w-nav-link" href="#FAQs">FAQ</a> <a class="navigation-item-2 w-nav-link" href="#NFT">NFT</a></nav>
+
+<div class="menu-button w-nav-button"><svg class="menu-icon" fill="none" height="36" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="36" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h24v24H0z" fill="none" stroke="none"></path><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></div>
+</div>
+<a class="button-c twitter-button" href="https://twitter.com/schooldaoo" target="_blank"> <svg aria-hidden="true" class="twtr-color-fill--blue-logo" fill="none" focusable="false" height="18" role="none" viewbox="0 0 22 18" width="22" xmlns="http://www.w3.org/2000/svg"> <path clip-rule="evenodd" d="M7.04128 17.7861C4.53883 17.7861 2.21078 17.0602 0.25 15.8165C0.596807 15.857 0.949401 15.8773 1.30683 15.8773C3.38266 15.8773 5.29282 15.1764 6.80944 14.0003C4.87 13.9646 3.23461 12.6968 2.67056 10.9547C2.94041 11.0059 3.21803 11.0338 3.50342 11.0338C3.90767 11.0338 4.2993 10.9798 4.67133 10.8796C2.64431 10.4775 1.11689 8.70468 1.11689 6.5808C1.11689 6.56156 1.11689 6.54327 1.11792 6.52489C1.71505 6.85368 2.39787 7.05133 3.12448 7.07347C1.93514 6.28783 1.15299 4.94488 1.15299 3.42361C1.15299 2.62053 1.37213 1.86754 1.75297 1.21971C3.93781 3.87277 7.20298 5.61776 10.885 5.80097C10.8091 5.47987 10.7701 5.14535 10.7701 4.80118C10.7701 2.38039 12.7543 0.416626 15.2012 0.416626C16.4753 0.416626 17.6267 0.949734 18.4351 1.80197C19.4444 1.60535 20.392 1.23997 21.2484 0.737722C20.9172 1.76154 20.2148 2.62053 19.3002 3.1633C20.1963 3.0572 21.0506 2.82194 21.8444 2.47297C21.2512 3.35223 20.4993 4.12445 19.6342 4.7433C19.643 4.93129 19.6469 5.12031 19.6469 5.31018C19.6469 11.1042 15.1905 17.7861 7.04128 17.7861Z" fill="#1DA1F2" fill-rule="evenodd"></path> </svg> <span>Twitter</span> </a></div>
+</div>
+
+<div class="intro-hero">
+<div class="intro-content cc-homepage">
+<div class="intro-text">
+<div class="label cc-green">SchoolDAO</div>
+
+<div class="heading-jumbo-2">School DAO for decentralized education</div>
+
+<div class="paragraph-bigger cc-bigger-white-light">Everything starts with a teacher&#39;s passion for education.</div>
+</div>
+
+<div class="text-block"><a class="button-c cc-jumbo-button cc-jumbo-white w-inline-block" href="#Learn">Learn More</a></div>
+</div>
+</div>
+
+<section class="section-1 main-section" id="Learn">
+<div class="about" style="padding-bottom:1px;">
+<div class="content">
+<div class="section-intro-wrap">
+<div class="label cc-light">LEARN</div>
+
+<div class="heading-jumbo-small">SchoolDAO</div>
+
+<p class="paragraph-light">The progress of blockchain technology in accordance with standards and the demand for people to get used to this situation had become monotonous. However, since the states, factories, schools etc. in the conventional current system are equipped with standard technologies, we have become societies that live unaware of existing and developing technology. We, as SchoolDao, aim to raise the level of education to a welfare level, provide accessibility, opportunities to work together, and most importantly, to raise awareness from the rapidly developing technology framework by breaking away from the current system and to make it digitally legible, and we are improving ourselves</p>
+</div>
+</div>
+</div>
+</section>
+
+<section class="section-1 main-section" id="Roadmap">
+<div class="about">
+<div class="content">
+<div class="vertical-timeline">
+<h5 class="timeline-headline">SchoolDAO Roadmap</h5>
+
+<div class="timeline-item">
+<div class="timeline-content-left">
+<div class="bold"><span class="circle">●</span> Organizing Whitelist Raffles<br />
+<span class="circle">●</span> NFT Sale (Private and Public open sale.)<br />
+<span class="circle">●</span> Purchasing land from the project decided by our group and starting the school building process.</div>
+</div>
+
+<div class="center-line-box">
+<div class="center-line">
+<div class="timeline-circle timeline-circle1">
+<div class="div-block"></div>
+</div>
+</div>
+</div>
+
+<div class="timeline-date-right timeline-date-right1">
+<div class="date">2022 (Q1)</div>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date-left timeline-date-left1">
+<div class="date">2022 (Q2)</div>
+</div>
+
+<div class="center-line-box">
+<div class="center-line">
+<div class="timeline-circle timeline-circle2">
+<div class="div-block"></div>
+</div>
+</div>
+</div>
+
+<div class="timeline-content-right timeline-content-right1">
+<div class="bold"><span class="circle">●</span> Releaseing Sdao Token<br />
+<span class="circle">●</span> Purchasing land from the project decided by our group and completing the school building process.<br />
+<span class="circle">●</span> Determining the courses that are planned to be opened with the community votes. ​<br />
+<span class="circle">●</span> Deciding on teachers - professors who will teach by community votes.<br />
+<span class="circle">●</span> Announcement of the courses to be opened and the teachers who will give the courses.</div>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-content-left timeline-content-left2">
+<div class="bold"><br />
+<span class="circle">●</span> Official opening of our school with our community. Nice surprises will be waiting for you at this opening.<br />
+<span class="circle">●</span> Lessons will begin and training will continue in the Metaverse environment.<br />
+<span class="circle">●</span> During this time, our lessons will be increased with the votes of our community members.<br />
+<span class="circle">●</span> For those who successfully complete our courses, we will produce NFT and give it to our community members for free.</div>
+</div>
+
+<div class="center-line-box">
+<div class="center-line">
+<div class="timeline-circle timeline-circle3">
+<div class="div-block"></div>
+</div>
+</div>
+</div>
+
+<div class="timeline-date-right timeline-date-right2">
+<div class="date">2022 (Q3)</div>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date-left timeline-date-left2">
+<div class="date">2022 (Q4)</div>
+</div>
+
+<div class="center-line-box">
+<div class="center-line last">
+<div class="timeline-circle timeline-circle4">
+<div class="div-block"></div>
+</div>
+</div>
+</div>
+
+<div class="timeline-content-right timeline-content-right3">
+<div class="bold"><span class="circle">●</span> We are planning to throw a big party as we finish the first semester of our classes. We will meet both in the metaverse and in the country and city we have determined.<br />
+<span class="circle">●</span> We will officially announce the SchoolDao app (Android &amp; IOS).</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="faqs" id="FAQs">
+<div class="faq">
+<div class="content">
+<div class="section-intro-wrap dark">
+<div class="label cc-light">fAQs</div>
+
+<div class="heading-jumbo-small">What is SchoolDAO</div>
+
+<p class="paragraph-light">School DAO aims to establish highly interactive lifelike classroom experience for learners and lecturers with high quality virtual reality education system governed by thousands of community members.</p>
+</div>
+
+<div class="main-faq-wrap">
+<div class="w-layout-grid faq-grid">
+<div>
+<div class="home-section-wrap">
+<h4 class="section-heading">Schooldao&#39;s main activities include:</h4>
+
+<p class="paragraph-light">Supporting and bringing people together to create vibrant and creative communities. Raising awareness, educating and making sure everyone knows about ongoing activities, product features and projects.</p>
+</div>
+
+<div class="home-section-wrap">
+<h4 class="section-heading">What&rsquo;s the goal?</h4>
+
+<p class="paragraph-light">First of all, to ensure that all our members experience VR trainings in their favourite areas. DAO members will be able to shape the education system in the way they want. School DAO will enable them to experience the school environment that they&rsquo;ve always dreamed of without leaving their homes. School, grounds, teachers and vehicles cost 8 million for 24 months. We believe we can achieve this as a large community.</p>
+</div>
+</div>
+
+<div>
+<div class="home-section-wrap">
+<h4 class="section-heading">Why VR School?</h4>
+
+<p class="paragraph-light">Currently, there is no active school in the metaverse world.<br />
+People pay above-average wages to get quality education.</p>
+</div>
+&nbsp;
+
+<div class="home-section-wrap">
+<h4 class="section-heading">What is the difference from Web2 online education?</h4>
+
+<p class="paragraph-light">First of all, it is impossible to find the augmented reality and interaction offered by the metaverse in any application on the web2. Training on the Metaverse paves the way for permanent skill development and interactive training with augmented reality.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="section-1 main-section" id="NFT">
+<div class="nft">
+<div class="content">
+<div class="section-intro-wrap ">
+<div class="heading-jumbo-small">COMING SOON</div>
+
+<div class="countdown">
+<div class="countdown-div"><span class="countdown-number days">30</span> <span class="countdown-text">DAYS</span></div>
+
+<div class="countdown-div"><span class="countdown-number hours">0</span> <span class="countdown-text">HOURS</span></div>
+
+<div class="countdown-div"><span class="countdown-number minutes">0</span> <span class="countdown-text">MINUTES</span></div>
+
+<div class="countdown-div"><span class="countdown-number seconds">0</span> <span class="countdown-text">SECONDS</span></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<div class="footer">
+<div class="footer-wrap-2">
+<div class="btn-callout"><a class="button-c twitter-button medium-button d-inline-flex" href="https://medium.com/@SchoolDao" target="_blank"><img alt="medium" height="20px" src="assets/images/medium.png" /> <span>Medium</span> </a> <a class="button-c twitter-button email-button d-inline-flex" href="mailto:support@schooldao.art" target="_blank"> <img alt="medium" height="20px" src="assets/images/email.png" /> <span>Mail</span> </a> <a class="button-c twitter-button d-inline-flex" href="https://twitter.com/schooldaoo" target="_blank"> <svg aria-hidden="true" class="twtr-color-fill--blue-logo" fill="none" focusable="false" height="18" role="none" viewbox="0 0 22 18" width="22" xmlns="http://www.w3.org/2000/svg"> <path clip-rule="evenodd" d="M7.04128 17.7861C4.53883 17.7861 2.21078 17.0602 0.25 15.8165C0.596807 15.857 0.949401 15.8773 1.30683 15.8773C3.38266 15.8773 5.29282 15.1764 6.80944 14.0003C4.87 13.9646 3.23461 12.6968 2.67056 10.9547C2.94041 11.0059 3.21803 11.0338 3.50342 11.0338C3.90767 11.0338 4.2993 10.9798 4.67133 10.8796C2.64431 10.4775 1.11689 8.70468 1.11689 6.5808C1.11689 6.56156 1.11689 6.54327 1.11792 6.52489C1.71505 6.85368 2.39787 7.05133 3.12448 7.07347C1.93514 6.28783 1.15299 4.94488 1.15299 3.42361C1.15299 2.62053 1.37213 1.86754 1.75297 1.21971C3.93781 3.87277 7.20298 5.61776 10.885 5.80097C10.8091 5.47987 10.7701 5.14535 10.7701 4.80118C10.7701 2.38039 12.7543 0.416626 15.2012 0.416626C16.4753 0.416626 17.6267 0.949734 18.4351 1.80197C19.4444 1.60535 20.392 1.23997 21.2484 0.737722C20.9172 1.76154 20.2148 2.62053 19.3002 3.1633C20.1963 3.0572 21.0506 2.82194 21.8444 2.47297C21.2512 3.35223 20.4993 4.12445 19.6342 4.7433C19.643 4.93129 19.6469 5.12031 19.6469 5.31018C19.6469 11.1042 15.1905 17.7861 7.04128 17.7861Z" fill="#1DA1F2" fill-rule="evenodd"></path> </svg> <span>Twitter</span> </a></div>
+</div>
+</div>
+</body>
+</html>
