@@ -14,3 +14,5 @@ from the current system and to make it digitally legible, and we are improving o
 - 🌱 I’m currently learning education :)
 - 📫 How to reach me 
 admin@schooldao.art
+
+https://twitter.com/schooldaoo
